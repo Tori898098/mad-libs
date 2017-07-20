@@ -1,0 +1,14 @@
+body{
+text-align:center;
+font-size:200%;
+color:rgb(1,0,215);
+
+
+    background-image: url("cheescake.jpg");
+}
+
+button{
+  font-size:40px;
+  border: black;
+  color:blue;
+}
